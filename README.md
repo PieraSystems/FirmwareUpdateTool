@@ -9,7 +9,7 @@ The software is designed to run and has been tested on Windows 10 (x86/x64-based
 To run the software, extract the ZIP file and launch flasher.exe application.
 
 When running the program, it will detect Piera devices connected to your computers USB Port and prompt you to select a device to update.
-Once selected, the program will detect the version of firmware currently running on your device, and if necissary update it to v1.9.10
+Once selected, the program will detect the version of firmware currently running on your device, and if needed update it to v1.9.10
 Once the update is successfull, it may also load new sensor calibration settings if that is required for your sensor.
 
 Please run Flasher once for each IPS Sensor you wish to update. 
