@@ -39,7 +39,9 @@ Entering boot loader...
 Sending file, please wait...
 File sent.
 Updating settings for IPS7100-21H000085
+
 ...........................................
+
 Update complete. Press Enter key to exit.
 
 --------
