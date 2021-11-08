@@ -10,7 +10,7 @@ Once selected, the program will detect the version of firmware currently running
 Once the update is successfull, it may also load new sensor calibration settings if that is required for your sensor.
 
 The software is designed to run and has been tested on Windows 10 (x86/x64-based) platforms. 
-- To run the software, extract the ZIP file and launch flasher.exe application.
+- To run the software, extract the [ZIP file](https://github.com/PieraSystems/FirmwareUpdateTool/releases/download/v1.9.10/flasher-1.9.10.zip) and launch flasher.exe application.
 - Follow instruction on screen, DO NOT Disconnect your Piera device while upgrade is in progress.
 - If you run into any issues, disconnect Piera device, Reconnect it, and run flasher.exe again.
 
