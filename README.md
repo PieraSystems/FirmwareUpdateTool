@@ -1,16 +1,15 @@
 # FirmwareUpdateTool
 Python-based Firmware Update tool for Piera IPS and A-Series Canaree sensors
-Updated 11/8/2021
+Updated 12/17/2021 - Version 1.9.12 
 
-This software is used to update firmware on Piera IPS-Series Sensors currently running v1.9.9 to version v1.9.10.  It is designed to be used with Piera Evaluation Kit (PEK) USB Cables or other compatable SiLab CP2102-based USB to UART Adapters. 
-This update is not for prior versions of Piera IPS Sensors running Version 1.8.x or below.
+This software is used to update firmware on Piera IPS-Series Sensors currently running v1.9.9 or older -  It is designed to be used with Piera Evaluation Kit (PEK) USB Cables or other compatable SiLab CP2102-based USB to UART Adapters. This update is not for prior versions of Piera IPS Sensors running Version 1.8.x or below.
 
 When running the program, it will detect Piera devices connected to your computers USB Port and prompt you to select a device to update.
-Once selected, the program will detect the version of firmware currently running on your device, and if needed update it to v1.9.10
+Once selected, the program will detect the version of firmware currently running on your device, and if needed update it to v1.9.12
 Once the update is successfull, it may also load new sensor calibration settings if that is required for your sensor.
 
 The software is designed to run and has been tested on Windows 10 (x86/x64-based) platforms. 
-- To run the software, extract the [ZIP file](https://github.com/PieraSystems/FirmwareUpdateTool/releases/download/v1.9.10/flasher-1.9.10.zip) and launch flasher.exe application.
+- To run the software, extract the [ZIP file](https://github.com/PieraSystems/FirmwareUpdateTool/releases/download/v1.9.12/flasher-1.9.12.zip) and launch flasher.exe application.
 - Follow instruction on screen, DO NOT Disconnect your Piera device while upgrade is in progress.
 - If you run into any issues, disconnect Piera device, Reconnect it, and run flasher.exe again.
 
